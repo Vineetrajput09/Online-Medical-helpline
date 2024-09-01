@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 Clone this repository to your local machine:
 
 bash
-git clone: https://github.com/your-username/online-medical-helpline.git
+git clone: https://github.com/Vineetrajput09/online-medical-helpline.git
 
 ### Step 2: Set Up the Database
 
